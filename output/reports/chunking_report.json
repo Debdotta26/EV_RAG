@@ -1,0 +1,18 @@
+{
+    "documents_processed": 5,
+    "pages_processed": 3480,
+    "sections_detected": 650,
+    "merged_sections": 293,
+    "total_chunks": 4025,
+    "text_chunks": 4026,
+    "table_chunks": 10,
+    "image_chunks": 20,
+    "largest_chunk": 860,
+    "smallest_chunk": 20,
+    "average_chunk": 200.46,
+    "average_chunks_per_document": 805.0,
+    "duplicate_tables_removed": 0,
+    "duplicate_images_removed": 24432,
+    "processing_time_seconds": 18.64,
+    "chunk_quality_score": 9.5
+}

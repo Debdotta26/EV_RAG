@@ -1,0 +1,127 @@
+{
+    "documents_processed": 5,
+    "chunks_processed": 4025,
+    "total_entities": 28011,
+    "average_entities_per_chunk": 6.96,
+    "entity_type_distribution": {
+        "Vehicle": 3952,
+        "Warning": 3396,
+        "Safety": 2178,
+        "Button": 1956,
+        "ADAS": 1949,
+        "Location": 1810,
+        "Driving Mode": 1131,
+        "Temperature": 1075,
+        "Brake": 1008,
+        "Infotainment": 889,
+        "Dashboard": 884,
+        "Service": 732,
+        "Battery": 718,
+        "Vehicle Model": 697,
+        "Indicator": 607,
+        "Tyre": 530,
+        "Charger": 522,
+        "Range": 487,
+        "Display": 466,
+        "Maintenance": 324,
+        "Motor": 294,
+        "Fault": 294,
+        "Charging Port": 292,
+        "Tyre Pressure": 286,
+        "Navigation": 282,
+        "Charging": 250,
+        "Regenerative Braking": 199,
+        "Charging Voltage": 193,
+        "Charging Time": 139,
+        "Charging Station": 100,
+        "Charging Power": 93,
+        "Bluetooth": 92,
+        "Error": 79,
+        "Charging Current": 57,
+        "V2L": 50
+    },
+    "top_entities": [
+        {
+            "entity": "vehicle",
+            "count": 2558
+        },
+        {
+            "entity": "WARNING",
+            "count": 845
+        },
+        {
+            "entity": "Kia",
+            "count": 758
+        },
+        {
+            "entity": "CAUTION",
+            "count": 632
+        },
+        {
+            "entity": "infotainment system",
+            "count": 366
+        },
+        {
+            "entity": "battery",
+            "count": 300
+        },
+        {
+            "entity": "cluster",
+            "count": 288
+        },
+        {
+            "entity": "professional workshop",
+            "count": 288
+        },
+        {
+            "entity": "brake pedal",
+            "count": 283
+        },
+        {
+            "entity": "EV button",
+            "count": 233
+        },
+        {
+            "entity": "warning message",
+            "count": 226
+        },
+        {
+            "entity": "Vehicle",
+            "count": 219
+        },
+        {
+            "entity": "instrument cluster",
+            "count": 218
+        },
+        {
+            "entity": "NOTICE",
+            "count": 205
+        },
+        {
+            "entity": "parking brake",
+            "count": 195
+        },
+        {
+            "entity": "Driver assistance guide",
+            "count": 155
+        },
+        {
+            "entity": "LCD display",
+            "count": 147
+        },
+        {
+            "entity": "temperature",
+            "count": 133
+        },
+        {
+            "entity": "malfunction",
+            "count": 131
+        },
+        {
+            "entity": "safety",
+            "count": 130
+        }
+    ],
+    "empty_chunks": 26,
+    "processing_time_seconds": 6980.53
+}
